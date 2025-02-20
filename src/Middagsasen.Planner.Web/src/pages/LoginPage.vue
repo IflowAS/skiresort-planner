@@ -6,9 +6,9 @@
         <q-card bordered flat>
           <q-card-section class="text-h6"
             ><img
-              src="~assets/middagsasen-logo.svg"
-              alt="Middagsåsen bemanning"
-              style="max-width: 75vw; max-height: 200px"
+              src="~assets/abstract-ski-resort-logo-cropped-nobg.svg"
+              alt="Skianlegg"
+              style="max-width: 75vw; max-height: 300px"
           /></q-card-section>
           <q-card-section class="q-col-gutter-sm row">
             <q-input

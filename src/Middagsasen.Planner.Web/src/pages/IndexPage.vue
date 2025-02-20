@@ -11,7 +11,7 @@
           @click="emit('toggle-left')"
         ></q-btn>
         <img
-          src="~assets/middagsasen-banner-white.svg"
+          src="~assets/abstract-ski-resort-logo-cropped-nobg.svg"
           class="q-ml-sm"
           style="max-height: 40px; max-width: 50vw"
         />
