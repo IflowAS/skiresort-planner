@@ -1,8 +1,8 @@
 {
-  "name": "middagsasen-planner-web",
+  "name": "skiresort-planner-web",
   "version": "0.0.1",
-  "description": "Planlegger for Middagsåsen",
-  "productName": "Middagsåsen Bemanning",
+  "description": "Planlegger for skianlegg",
+  "productName": "Skianlegg Bemanning",
   "author": "Christoffer Cena <chris+github@cenaonline.net>",
   "private": true,
   "type": "module",
